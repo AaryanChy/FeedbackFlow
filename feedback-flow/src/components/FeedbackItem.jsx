@@ -1,5 +1,4 @@
 import { FaTimes } from "react-icons/fa";
-import { useState } from "react";
 import { useContext } from "react";
 import FeedbackContext from "../context/feedbackContext";
 
